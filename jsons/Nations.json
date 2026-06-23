@@ -5,7 +5,6 @@
 		"adjective": ["Templar"],
 		"startBias": ["Avoid [Desert]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
-		"personality": "Grandmaster",
 		
 		"startIntroPart1": "In the name of God, we march once more.",
 		"startIntroPart2": "The world awaits our return, as we reclaim what was once ours.",
