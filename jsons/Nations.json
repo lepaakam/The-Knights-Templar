@@ -34,7 +34,7 @@
 		
 		"uniqueName": "Divine Right",
 		"uniques": [
-			"Comment [Unable to gain Settlers]",
+			"Cannot build [Settlers] units",
 			"May not annex cities",
 			"Gain enough Faith for a Pantheon",
 			"May choose [4] additional [Any] beliefs when [founding] a religion",
