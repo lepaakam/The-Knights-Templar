@@ -19,7 +19,7 @@
 		"name": "Templar",
 		"unitType": "Sword",
 		"uniqueTo": "Knights Templar",
-		"replaces": "Swordsman",
+		"replaces": "Settler",
 		"movement": 3,
 		"strength": 15,
 		"cost": 65,
